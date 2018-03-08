@@ -1,0 +1,14 @@
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^profile/([^/]*)$ profile.php?user=$1 [L]
+RewriteRule ^feed/([^/]*)$ /index.php?page=$1 [L]
+RewriteRule ^channel/([^/]*)/([^/]*)$ /channel.php?username=$1&page=$2 [L]
+
+
+RewriteCond %{HTTPS} off
+RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule .* https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]

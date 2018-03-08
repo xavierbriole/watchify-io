@@ -1,0 +1,278 @@
+{
+    "type": "d",
+    "name": "",
+    "size": 4096,
+    "files": [
+        {
+            "type": "-",
+            "name": ".htaccess",
+            "size": 454
+        },
+        {
+            "type": "d",
+            "name": ".vscode",
+            "size": 4096,
+            "files": []
+        },
+        {
+            "type": "d",
+            "name": "PSD",
+            "size": 4096,
+            "files": []
+        },
+        {
+            "type": "-",
+            "name": "add_youtuber.php",
+            "size": 709
+        },
+        {
+            "type": "-",
+            "name": "admin.php",
+            "size": 696
+        },
+        {
+            "type": "-",
+            "name": "admin_add_youtuber_member.php",
+            "size": 6492
+        },
+        {
+            "type": "-",
+            "name": "admin_manage_flags_member.php",
+            "size": 8182
+        },
+        {
+            "type": "-",
+            "name": "admin_manage_users_member.php",
+            "size": 8551
+        },
+        {
+            "type": "-",
+            "name": "admin_manage_videos_member.php",
+            "size": 8076
+        },
+        {
+            "type": "-",
+            "name": "admin_member.php",
+            "size": 3581
+        },
+        {
+            "type": "-",
+            "name": "channel.php",
+            "size": 635
+        },
+        {
+            "type": "-",
+            "name": "channel_member.php",
+            "size": 13297
+        },
+        {
+            "type": "d",
+            "name": "classes",
+            "size": 4096,
+            "files": []
+        },
+        {
+            "type": "-",
+            "name": "cnx.php",
+            "size": 291
+        },
+        {
+            "type": "d",
+            "name": "core",
+            "size": 4096,
+            "files": []
+        },
+        {
+            "type": "d",
+            "name": "coverIMG",
+            "size": 4096,
+            "files": []
+        },
+        {
+            "type": "d",
+            "name": "css",
+            "size": 4096,
+            "files": []
+        },
+        {
+            "type": "-",
+            "name": "feed_guest.php",
+            "size": 8020
+        },
+        {
+            "type": "-",
+            "name": "feed_member.php",
+            "size": 13682
+        },
+        {
+            "type": "-",
+            "name": "flagVideo.php",
+            "size": 405
+        },
+        {
+            "type": "-",
+            "name": "followAction.php",
+            "size": 764
+        },
+        {
+            "type": "d",
+            "name": "fonts",
+            "size": 4096,
+            "files": []
+        },
+        {
+            "type": "-",
+            "name": "footer.php",
+            "size": 2028
+        },
+        {
+            "type": "-",
+            "name": "footer_member.php",
+            "size": 3850
+        },
+        {
+            "type": "d",
+            "name": "functions",
+            "size": 4096,
+            "files": []
+        },
+        {
+            "type": "-",
+            "name": "header.php",
+            "size": 1352
+        },
+        {
+            "type": "d",
+            "name": "img",
+            "size": 4096,
+            "files": []
+        },
+        {
+            "type": "d",
+            "name": "includes",
+            "size": 4096,
+            "files": []
+        },
+        {
+            "type": "-",
+            "name": "index.php",
+            "size": 341
+        },
+        {
+            "type": "d",
+            "name": "js",
+            "size": 4096,
+            "files": []
+        },
+        {
+            "type": "-",
+            "name": "logout.php",
+            "size": 101
+        },
+        {
+            "type": "-",
+            "name": "manage_flags.php",
+            "size": 890
+        },
+        {
+            "type": "-",
+            "name": "manage_users.php",
+            "size": 953
+        },
+        {
+            "type": "-",
+            "name": "manage_videos.php",
+            "size": 954
+        },
+        {
+            "type": "-",
+            "name": "markVideo.php",
+            "size": 405
+        },
+        {
+            "type": "-",
+            "name": "parser.php",
+            "size": 1897
+        },
+        {
+            "type": "-",
+            "name": "password.php",
+            "size": 708
+        },
+        {
+            "type": "-",
+            "name": "profile.php",
+            "size": 706
+        },
+        {
+            "type": "-",
+            "name": "profile_guest.php",
+            "size": 1642
+        },
+        {
+            "type": "-",
+            "name": "profile_member.php",
+            "size": 6557
+        },
+        {
+            "type": "-",
+            "name": "reset.php",
+            "size": 180
+        },
+        {
+            "type": "-",
+            "name": "result.php",
+            "size": 2205
+        },
+        {
+            "type": "-",
+            "name": "search.php",
+            "size": 697
+        },
+        {
+            "type": "-",
+            "name": "search_member.php",
+            "size": 3096
+        },
+        {
+            "type": "-",
+            "name": "settings.php",
+            "size": 699
+        },
+        {
+            "type": "-",
+            "name": "settings_member.php",
+            "size": 3460
+        },
+        {
+            "type": "-",
+            "name": "settings_password_member.php",
+            "size": 7187
+        },
+        {
+            "type": "-",
+            "name": "settings_update_member.php",
+            "size": 6731
+        },
+        {
+            "type": "-",
+            "name": "test.php",
+            "size": 190
+        },
+        {
+            "type": "-",
+            "name": "update.php",
+            "size": 706
+        },
+        {
+            "type": "-",
+            "name": "video.php",
+            "size": 633
+        },
+        {
+            "type": "-",
+            "name": "video_member.php",
+            "size": 17653
+        }
+    ]
+}
